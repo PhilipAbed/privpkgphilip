@@ -1,0 +1,17 @@
+{
+	"name": "somedep",
+	"author": "Someone",
+	"contributors": [
+		"Stinky <phil@me.com>"
+	],
+	"version": "1.0.0",
+	"description": "test",
+	"main": "./index.js",
+	"license": "MIT",
+	"dependencies": {
+		"numpy": "npm:0.0.1"
+	},
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com"
+	}
+}
